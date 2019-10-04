@@ -1,0 +1,15 @@
+﻿Temp,Humidity,Windy,Label
+high,low,Yes,Sunny
+low,high,Yes,Rainy
+high,low,No,Sunny
+high,high,No,Sunny
+mild,mild,No,Sunny
+mild,high,No,Rainy
+low,mild,Yes,Rainy
+low,low,Yes,Rainy
+low,high,Yes,Rainy
+high,low,No,Sunny
+high,mild,No,Sunny
+mild,mild,No,Sunny
+mild,high,No,Rainy
+low,mild,Yes,Rainy
